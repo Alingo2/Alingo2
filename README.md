@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Alingo2)]()
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alingo2&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alingo2&bg_color=DEG,#fcba03,#ffaa03)](https://github.com/anuraghazra/github-readme-stats)
